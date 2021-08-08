@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @qs0902
 - 👀 I’m interested in auto-driving and ai
-- 🌱 I’m currently learning auoware
+- 🌱 I’m currently learning autoware
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
